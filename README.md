@@ -1,1 +1,9 @@
-# React-Redux-toolkit-pratice
+## React JS - React Redux with React Toolkit
+#### To Run this Project Follow below Steps:-
+* Download the Project then open it with your IDE/Code Editor
+* Open terminal then change director to Project Folder
+* Then run below commands
+```bash
+npm install 
+npm start
+```
